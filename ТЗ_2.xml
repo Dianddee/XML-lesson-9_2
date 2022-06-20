@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson>
+  <title>name</title>
+  <description>description</description>
+  <option>required</option>
+  <tasks>
+	<task>
+		<title>name</title>
+		<questions>
+			<question>
+				<quest>Вопрос</quest>
+				<answer>Ответ</answer>
+			</question>
+			<question>
+				<quest>Вопрос</quest>
+				<answer>Ответ</answer>
+			</question>
+		</questions>
+		<options>optional</options>
+	</task>
+	<task>
+		<title>name</title>
+		<questions>
+			<question>
+				<quest>Вопрос</quest>
+				<answer>Ответ</answer>
+			</question>
+			<question>
+				<quest>Вопрос</quest>
+				<answer>Ответ</answer>
+			</question>
+		</questions>
+		<options>optional</options>
+	</task>
+  </tasks>
+</lesson>
